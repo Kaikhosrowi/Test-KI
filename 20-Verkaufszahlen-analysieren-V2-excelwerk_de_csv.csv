@@ -1,0 +1,26 @@
+﻿;;;;;;;;;
+Außendienst;Innendienst;Land;Produktgruppe;Produkt;Preis;Marge;Stückzahl;Datum;Umsatz gesamt
+Meyer;Mustermann;Deutschland;Mountainbike;M100;500;100;10;30.01.2016;5.000
+Meyer;Mustermann;Deutschland;Mountainbike;M200;800;200;5;25.02.2016;4.000
+Meyer;Mustermann;Deutschland;Mountainbike;M300;1.100;300;15;30.04.2016;16.500
+Müller;Mustermann;Deutschland;E-Bike;E100;2.000;600;35;25.06.2016;70.000
+Müller;Mustermann;Deutschland;E-Bike;E200;2.500;700;20;01.03.2016;50.000
+Schulz;Musterfrau;USA;E-Bike;E300;3.000;800;10;23.05.2016;30.000
+Schulz;Musterfrau;USA;E-Bike;E400;3.500;900;30;02.06.2016;105.000
+Schulz;Musterfrau;USA;E-Bike;E100;2.000;600;25;24.07.2016;50.000
+Schulz;Musterfrau;USA;Trekkingbike;T100;400;50;50;11.08.2016;20.000
+Schulz;Musterfrau;USA;Trekkingbike;T200;450;60;40;02.09.2016;18.000
+Schmidt;Bachmann;Spanien;Trekkingbike;T300;500;70;45;24.10.2016;22.500
+Schmidt;Bachmann;Spanien;Trekkingbike;T100;400;50;40;08.11.2016;16.000
+Schmidt;Bachmann;Spanien;Trekkingbike;T200;450;60;30;03.12.2016;13.500
+Meyer;Bachmann;Spanien;Mountainbike;M100;500;100;20;04.12.2016;10.000
+Meyer;Bachmann;Spanien;Mountainbike;M200;800;200;25;02.11.2016;20.000
+Müller;Bachmann;Spanien;E-Bike;E100;2.000;600;10;10.10.2016;20.000
+Müller;Schröder;Italien;E-Bike;E200;2.500;700;40;23.09.2016;100.000
+Müller;Schröder;Italien;E-Bike;E300;3.000;800;20;05.08.2016;60.000
+Müller;Schröder;Italien;E-Bike;E400;3.500;900;5;02.03.2016;17.500
+Müller;Schröder;Italien;E-Bike;E100;2.000;600;30;04.04.2016;60.000
+Meyer;Schröder;Italien;Mountainbike;M100;500;100;10;06.05.2016;5.000
+Meyer;Schröder;Italien;Mountainbike;M200;800;200;5;11.11.2016;4.000
+Meyer;Schröder;Italien;Mountainbike;M300;1.100;300;15;10.12.2016;16.500
+Schmidt;Schröder;Italien;Trekkingbike;T100;400;50;50;24.09.2016;20.000
